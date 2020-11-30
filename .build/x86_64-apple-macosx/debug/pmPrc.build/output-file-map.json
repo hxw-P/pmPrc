@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/huaxiaowei/Desktop/pmPrc/.build/x86_64-apple-macosx/debug/pmPrc.build/master.swiftdeps"
+  },
+  "/Users/huaxiaowei/Desktop/pmPrc/Sources/pmPrc/main.swift": {
+    "dependencies": "/Users/huaxiaowei/Desktop/pmPrc/.build/x86_64-apple-macosx/debug/pmPrc.build/main.d",
+    "object": "/Users/huaxiaowei/Desktop/pmPrc/.build/x86_64-apple-macosx/debug/pmPrc.build/main.swift.o",
+    "swiftmodule": "/Users/huaxiaowei/Desktop/pmPrc/.build/x86_64-apple-macosx/debug/pmPrc.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/huaxiaowei/Desktop/pmPrc/.build/x86_64-apple-macosx/debug/pmPrc.build/main.swiftdeps"
+  },
+  "/Users/huaxiaowei/Desktop/pmPrc/Sources/pmPrc/test1.swift": {
+    "dependencies": "/Users/huaxiaowei/Desktop/pmPrc/.build/x86_64-apple-macosx/debug/pmPrc.build/test1.d",
+    "object": "/Users/huaxiaowei/Desktop/pmPrc/.build/x86_64-apple-macosx/debug/pmPrc.build/test1.swift.o",
+    "swiftmodule": "/Users/huaxiaowei/Desktop/pmPrc/.build/x86_64-apple-macosx/debug/pmPrc.build/test1~partial.swiftmodule",
+    "swift-dependencies": "/Users/huaxiaowei/Desktop/pmPrc/.build/x86_64-apple-macosx/debug/pmPrc.build/test1.swiftdeps"
+  }
+}

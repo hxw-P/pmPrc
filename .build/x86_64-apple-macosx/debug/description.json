@@ -1,0 +1,19 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "\/Users\/huaxiaowei\/Desktop\/pmPrc\/.build\/x86_64-apple-macosx\/debug\/pmPrcPackageTests.xctest\/Contents\/MacOS\/pmPrcPackageTests",
+      "packageName" : "pmPrc",
+      "productName" : "pmPrcPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "swiftTargetMap" : {
+    "C.pmPrc-debug.module" : "pmPrc",
+    "C.pmPrcTests-debug.module" : "pmPrcTests"
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

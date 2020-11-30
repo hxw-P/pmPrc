@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "68fef4ba008429883e0d60aaafaccbf6"
+build_time: [1606702147, 644277000]
+inputs:
+  "/Users/huaxiaowei/Desktop/pmPrc/Sources/pmPrc/main.swift": [1606702146, 679313825]
+  "/Users/huaxiaowei/Desktop/pmPrc/Sources/pmPrc/test1.swift": [1606702146, 691103780]
