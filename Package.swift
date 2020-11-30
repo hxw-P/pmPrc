@@ -16,6 +16,7 @@ let package = Package(
         .target(
             name: "ocFunc",
             dependencies: [],
+            path: "."
             sources: ["testOC.h", "testOC.m", "testOC1.h", "testOC1.m"],
             publicHeadersPath: "include"),
         .target(
