@@ -5,6 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "pmPrc",
+    products: [.library(name: "pmPrc", targets: ["pmPrc"])],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
