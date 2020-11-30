@@ -1,5 +1,5 @@
 //
-//  test2.h
+//  testOC1.h
 //  
 //
 //  Created by 华晓伟 on 2020/11/30.
@@ -9,7 +9,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface test2 : NSObject
+@interface testOC1 : NSObject
 
 + (NSString *)pr;
 

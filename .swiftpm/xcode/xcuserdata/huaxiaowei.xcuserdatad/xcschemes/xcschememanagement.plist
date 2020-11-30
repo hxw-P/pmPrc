@@ -12,12 +12,22 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>ocFunc</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>pmPrc</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
 		<key>pmPrcTests</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>swiftFunc</key>
 		<dict>
 			<key>primary</key>
 			<true/>

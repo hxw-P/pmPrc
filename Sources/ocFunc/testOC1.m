@@ -1,16 +1,16 @@
 //
-//  test2.m
+//  testOC1.m
 //  
 //
 //  Created by 华晓伟 on 2020/11/30.
 //
 
-#import "test2.h"
+#import "testOC1.h"
 
-@implementation test2
+@implementation testOC1
 
 + (NSString *)pr {
-    return @"test2";
+    return @"testOC1";
 }
 
 @end
