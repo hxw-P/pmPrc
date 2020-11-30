@@ -15,10 +15,7 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .target(
             name: "ocFunc",
-            dependencies: [],
-            path: ".",
-            sources: ["testOC.h", "testOC.m", "testOC1.h", "testOC1.m"],
-            publicHeadersPath: "include"),
+            dependencies: []),
         .target(
             name: "swiftFunc",
             dependencies: []),
