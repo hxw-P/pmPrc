@@ -16,7 +16,7 @@ let package = Package(
         .target(
             name: "ocFunc",
             dependencies: [],
-            path: "dffff"
+            path: "Sources/ocFunc"
         ),
         .target(
             name: "swiftFunc",
