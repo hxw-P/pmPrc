@@ -16,7 +16,7 @@ let package = Package(
         .target(
             name: "ocFunc",
             dependencies: [],
-            path: "Sources/ocFunc",
+            path: "Sources/ocFunc"
 //            exclude: ["Demo"],
 //            sources: ["testOC.h", "testOC.m"],
         ),
