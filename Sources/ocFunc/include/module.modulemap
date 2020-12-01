@@ -1,0 +1,4 @@
+module ocFunc {
+     export *
+     module * { export * }
+ }
