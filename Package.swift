@@ -18,9 +18,8 @@ let package = Package(
             dependencies: [],
 //            path: ".",
 //            exclude: ["Demo"],
-            sources: ["testOC.h", "testOC.m", "testOC1.h", "testOC1.m"],
-//            publicHeadersPath: "Sources/ocFunc/include"
-            publicHeadersPath: "../ocFunc"
+//            sources: ["testOC.h", "testOC.m"],
+            publicHeadersPath: "Sources/ocFunc/include"
         ),
         .target(
             name: "swiftFunc",

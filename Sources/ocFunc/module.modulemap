@@ -1,0 +1,5 @@
+//module ocFunc {
+//     umbrella header "testOC.h"
+//     export *
+//     module * { export * }
+// }
