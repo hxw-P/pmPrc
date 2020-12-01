@@ -16,10 +16,10 @@ let package = Package(
         .target(
             name: "ocFunc",
             dependencies: [],
-            path: ".",
+//            path: ".",
 //            exclude: ["Demo"],
-            sources: ["testOC.h", "testOC.m"],
-            publicHeadersPath: "include"
+//            sources: ["testOC.h", "testOC.m"],
+            publicHeadersPath: "Sources/ocFunc/include"
         ),
         .target(
             name: "swiftFunc",
